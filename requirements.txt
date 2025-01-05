@@ -1,3 +1,4 @@
 scikit-learn
 pandas
  matplotlib
+https://github.com/M-luthra07/internshiptaskk2/blob/main/parkinsons_updrs.data.csv
