@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 st.title("Linear Regression Web App")
 
 # Load the dataset directly from a local file
-DATA_PATH =  https://raw.githubusercontent.com/M-luthra07/internshiptaskk2/refs/heads/main/parkinsons_updrs.data.csv  # Replace with your dataset filename
+DATA_PATH = "https://raw.githubusercontent.com/M-luthra07/internshiptaskk2/refs/heads/main/parkinsons_updrs.data.csv"
 try:
     data = pd.read_csv(DATA_PATH,encoding='ISO-8859-1')
     st.write("### Dataset Preview")
